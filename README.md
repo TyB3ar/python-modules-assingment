@@ -12,4 +12,5 @@ Afterwards, the program then asks the user to select an option to amend the word
 - Completely uppercasing the word
 - Completely lowercasing the word
 - Extracting the vowels from the word and displaying a list of those vowels 
-This is all ment to showcase my understanding of custom modules in python. Thank you! 
+
+This is all meant to showcase my understanding of custom modules in python. Thank you! 
